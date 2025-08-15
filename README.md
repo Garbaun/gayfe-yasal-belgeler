@@ -1,11 +1,11 @@
-# gayfe-yasal-belgeler
+# GAYFE UYGULAMASI YASAL BELGELER
 Gayfe uygulaması için gizlilik politikası, kullanım koşulları ve KVKK metinleri.
 
 KVKK Metni:
-https://garbaun.github.io/gayfe-yasal-belgeler/kvkk.html
+<a href="https://garbaun.github.io/gayfe-yasal-belgeler/kvkk.html"> KVKK Metni için bağlantıyı takip edin. </a>
 
 Kullanım Koşulları:
-https://garbaun.github.io/gayfe-yasal-belgeler/kullanim-kosullari.html
+<a href="https://garbaun.github.io/gayfe-yasal-belgeler/kullanim-kosullari.html"> Kullanım Koşulları Metni için bağlantıyı takip edin. </a>
 
 Gizlilik Politikası:
-https://garbaun.github.io/gayfe-yasal-belgeler/gizlilik-politikasi.html
+<a href="https://garbaun.github.io/gayfe-yasal-belgeler/gizlilik-politikasi.html"> Gizlilik Politikası Metni için bağlantıyı takip edin. </a>
